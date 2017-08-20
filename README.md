@@ -1,4 +1,6 @@
-# Boy-Bands
+# Boy Bands and Vegetables
+
+Requirements
 
 Paste the following code into the <body> of the HTML file.
 
@@ -7,6 +9,8 @@ Paste the following code into the <body> of the HTML file.
 
 <div id="vegetables">
 </div>
+
+
 Paste the following code into your JavaScript file.
 
 var bands = ["Boyz II Men", "NSync", "New Kids on the Block", "98 Degrees", "One Direction"];
